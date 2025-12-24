@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // 例: リポジトリ名が ogane-industry の場合 -> base: '/ogane-industry/'
 export default defineConfig({
   plugins: [react()],
-  base: '/<REPO>/',
+  base: '/ogane-industry/',
 })
